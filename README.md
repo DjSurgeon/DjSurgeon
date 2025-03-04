@@ -1,36 +1,32 @@
-<h1 align="center">¡Hola! Soy Sergio</h1>
+<h1 align="center">Hi 👋, I'm Sergio Jiménez</h1>
+<h3 align="center">Software development is an art, a combination of art and science</h3>
 
-**Desarrollador de software** en constante aprendizaje.  
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y de **42 Madrid** desde enero de 2025.  
-Apasionado por la **eficiencia**, el **código limpio** y las **buenas prácticas**.  
+**Software developer** in constant learning.  
+Student of **DAM** and **42 Madrid** since January 2025.  
+Passionate about **efficiency**, **clean code** and **good practices**.
 
-## Tecnologías y conocimientos  
-- **Lenguajes:** C, C++, HTML, CSS, Javascript  
-- **Sistemas:** Unix/Linux  
-- **Intereses:** Blockchain, Inteligencia Artificial  
+- 🔭 I’m currently working on [Get Next Line](https://github.com/DjSurgeon/cursus/tree/main/cursus/get_next_line)
 
-Siempre en busca de nuevos retos y oportunidades para crecer como desarrollador.  
+- 🌱 I’m currently learning **Backend Technologies** and **Linux**
 
-<!-- 
+- 📝 I regularly write articles on [https://dev.to/djsurgeon](https://dev.to/djsurgeon)
 
-## Proyectos Destacados
+- 💬 Ask me about **c**
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9;">
+- 📫 How to reach me **djsurgeon83@gmail.com**
 
-### Mi Progreso
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-**DAM:** [Ver detalle de progreso](#) 
-- **42 Madrid:** [Ver detalle de progreso](#)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/djsurgeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="djsurgeon" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-### Repositorios Destacados de 42 Madrid
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=djsurgeon&show_icons=true&locale=en&layout=compact" alt="djsurgeon" /></p>
 
-- [Proyecto 1](#)
-- [Proyecto 2](#)
-- [Proyecto 3](#)
-
-</div>
-
--->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DjSurgeon?cardType=github&theme=onedark&preferLogin=false)](https://git.io/awesome-stats-card)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djsurgeon&show_icons=true&locale=en" alt="djsurgeon" /></p>
