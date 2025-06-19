@@ -5,7 +5,7 @@
 Student of **DAM** and **42 Madrid** since January 2025.  
 Passionate about **efficiency**, **clean code** and **good practices**.
 
-- 🔭 I’m currently working on [Push_Swap](https://github.com/DjSurgeon/cursus/tree/main/cursus/pushswap)
+- 🔭 I’m currently working on [FDF](https://github.com/DjSurgeon/cursus/tree/main/cursus/)
 
 - 🌱 I’m currently learning **Backend Technologies** and **Linux**
 
