@@ -5,7 +5,7 @@
 Student of **DAM** and **42 Madrid** since January 2025.  
 Passionate about **efficiency**, **clean code** and **good practices**.
 
-- 🔭 I’m currently working on [Minishell](https://github.com/DjSurgeon/Minishell)
+- 🔭 I’m currently working on [Philosophers](https://github.com/DjSurgeon/cursus/tree/main/cursus/philo)
 
 - 🌱 I’m currently learning **Backend Technologies** and **Linux**
 
