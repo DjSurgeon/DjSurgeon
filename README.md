@@ -5,7 +5,7 @@
 Student of **DAM** and **42 Madrid** since January 2025.  
 Passionate about **efficiency**, **clean code** and **good practices**.
 
-- 🔭 I’m currently working on [Philosophers](https://github.com/DjSurgeon/cursus/tree/main/cursus/philo)
+- 🔭 I’m currently working on [cub3d](https://github.com/vjan-nie/cub3D/tree/93643a55eb1697639640e9815c309bc9acfc0b89)
 
 - 🌱 I’m currently learning **Backend Technologies** and **Linux**
 
