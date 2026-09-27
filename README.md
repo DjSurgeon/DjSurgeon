@@ -46,20 +46,31 @@ Backend Developer & IT Technician focused on DevOps culture. I build efficient, 
 
 ## 🚀 Featured Projects
 
-### 🏆 [VM-Starter](https://github.com/DjSurgeon/vm-starter) — Enterprise IaC Framework
+### [Minishell](https://github.com/DjSurgeon/Minishell) — POSIX Shell in C
+Bash-like command interpreter built from scratch in a 2-person team.
+- **My Role**: Executor engine (process management, pipes, redirections, signals).
+- **Tech**: C, `fork`, `execve`, `pipe`, `dup2`, AST parsing.
+- **Highlights**: Zero memory leaks, complex FD management, strict peer code reviews.
+
+### [Inception](https://github.com/DjSurgeon/cursus/tree/main/cursus/inception) — System Administration & Docker Orchestration
+Robust multi-container infrastructure deployed from scratch on Alpine Linux.
+- **Stack**: Docker, NGINX (TLS), MariaDB, WordPress, Redis, Prometheus, Grafana.
+- **Highlights**: 10+ interconnected containers, custom bridged networks, strict PID 1 enforcement, IaC principles.
+
+### [HamBooking (TFG)](https://github.com/DjSurgeon/java-dam) — Full-Stack Booking System
+Comprehensive REST client-server architecture developed as Final Degree Project (DAM).
+- **Stack**: Java 21, Spring Boot 3, JavaFX, MySQL, Hibernate.
+- **Highlights**: Clean Architecture, 490+ unit tests (JUnit/Mockito), DTO pattern, strict lazy-loading.
+
+### [VM-Starter](https://github.com/DjSurgeon/vm-starter) — Enterprise IaC Framework
 Automated VM provisioning tool for reproducible environments.
 - **Stack**: Bash, VirtualBox, Cloud-Init, GitHub Actions.
 - **Highlights**: CI/CD pipelines, Bats-core integration testing, dynamic binary mocking, strict fail-fast architecture.
 
-### [Weather API](https://github.com/DjSurgeon/weather-api) — Production-ready Service
+### [Weather API](https://github.com/DjSurgeon/weather-api) — Backend Service
 REST API with Redis caching and external integrations.
 - **Stack**: Node.js, Express, Redis, PostgreSQL.
 - **Highlights**: Smart caching (90% reduction in external calls), rate limiting.
-
-### [Minishell](https://github.com/DjSurgeon/minishell) — POSIX Shell in C
-Bash-like shell built from scratch.
-- **Architecture**: Dispatcher pattern, AST parsing, modular handlers.
-- **Highlights**: Zero memory leaks, POSIX compliant, process management, 2,400+ tests.
 
 ### [Push Swap](https://github.com/DjSurgeon/push_swap) — Sorting Algorithm Optimizer
 Algorithm optimization with strict execution constraints.

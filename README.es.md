@@ -46,7 +46,23 @@ Desarrollador Backend y Técnico de Sistemas con enfoque DevOps. Construyo siste
 
 ## 🚀 Proyectos Destacados
 
-### 🏆 [VM-Starter](https://github.com/DjSurgeon/vm-starter) — Enterprise IaC Framework
+### [Minishell](https://github.com/DjSurgeon/Minishell) — POSIX Shell en C
+Intérprete de comandos tipo Bash creado desde cero en equipo (2 personas).
+- **Mi Rol**: Motor de ejecución (gestión de procesos, tuberías, redirecciones, señales).
+- **Tech**: C, `fork`, `execve`, `pipe`, `dup2`, AST.
+- **Destaca**: Cero memory leaks, gestión compleja de File Descriptors, peer code reviews.
+
+### [Inception](https://github.com/DjSurgeon/cursus/tree/main/cursus/inception) — Administración de Sistemas & Orquestación Docker
+Infraestructura robusta multi-contenedor desplegada desde cero sobre Alpine Linux.
+- **Stack**: Docker Compose, NGINX (TLS), MariaDB, Redis, Prometheus, Grafana.
+- **Destaca**: +10 contenedores interconectados, control estricto de PID 1, redes seguras aisladas, Infraestructura como Código (IaC).
+
+### [HamBooking (TFG)](https://github.com/DjSurgeon/java-dam) — Sistema Full-Stack de Reservas
+Arquitectura Cliente-Servidor REST integral desarrollada como Trabajo de Fin de Grado (DAM).
+- **Stack**: Java 21, Spring Boot 3, JavaFX, MySQL, Hibernate.
+- **Destaca**: Clean Architecture, +490 tests unitarios (JUnit/Mockito), patrón DTO, lazy-loading estricto.
+
+### [VM-Starter](https://github.com/DjSurgeon/vm-starter) — Enterprise IaC Framework
 Herramienta de aprovisionamiento de VMs para entornos reproducibles.
 - **Stack**: Bash, VirtualBox, Cloud-Init, GitHub Actions.
 - **Destaca**: Pipelines CI/CD, tests de integración con Bats-core, mocking dinámico de binarios.
@@ -55,11 +71,6 @@ Herramienta de aprovisionamiento de VMs para entornos reproducibles.
 API REST con caché en Redis e integraciones externas.
 - **Stack**: Node.js, Express, Redis, PostgreSQL.
 - **Destaca**: Caché inteligente (reducción 90% de llamadas), rate limiting.
-
-### [Minishell](https://github.com/DjSurgeon/minishell) — POSIX Shell en C
-Intérprete de comandos tipo Bash creado desde cero.
-- **Arquitectura**: Patrón Dispatcher, parsing AST, manejadores modulares.
-- **Destaca**: Cero memory leaks, estándar POSIX, gestión de procesos, +2.400 tests.
 
 ### [Push Swap](https://github.com/DjSurgeon/push_swap) — Optimizador de Algoritmos
 Algoritmo de ordenación con restricciones estrictas.
