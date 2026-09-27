@@ -1,16 +1,16 @@
-# Hi 👋, I'm Sergio Jiménez
+# Hola 👋, Soy Sergio Jiménez
 
-[🇪🇸 Ver perfil en Español](README.es.md)
+[🇺🇸 Read in English](README.md)
 
 <div align="center">
   <strong>Backend Developer & DevOps Engineer | C/C++ Systems | Java | Linux SysAdmin</strong><br>
+  <em>42 Madrid | Construyendo arquitectura robusta y pipelines CI/CD escalables</em><br><br>
   <a href="https://linkedin.com/in/sergiojimenez42dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dev.to/djsurgeon"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
   <a href="https://portfolioserjimen.netlify.app"><img src="https://img.shields.io/badge/Portfolio-258D65?style=for-the-badge&logo=Netlify&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:djsurgeon83@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <br />
-  <em>42 Madrid | Building robust architecture and scalable CI/CD pipelines</em><br>
 </div>
+
 <div align="center">
   <br />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
@@ -26,17 +26,17 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 Sobre Mí
 
-Backend Developer & IT Technician focused on DevOps culture. I build efficient, memory-safe systems and automate infrastructure.
+Desarrollador Backend y Técnico de Sistemas con enfoque DevOps. Construyo sistemas eficientes, seguros en memoria y automatizo infraestructura.
 
-- **Education**: 42 Madrid (C/C++, Unix Systems) + HND in Multiplatform App Development (DAM) + IT Systems Technician (SMR).
-- **Engineering**: Trunk-Based Development, TDD, CI/CD pipelines, and zero-leak memory management.
-- **Soft Skills**: 12+ years in team leadership and B2C/B2B client relations. Proven autonomy, communication, and crisis management.
+- **Formación**: 42 Madrid (C/C++, Sistemas Unix) + CFGS Desarrollo de Aplicaciones Multiplataforma (DAM) + CFGM Sistemas Microinformáticos (SMR).
+- **Ingeniería**: Trunk-Based Development, TDD, pipelines CI/CD y gestión de memoria (zero leaks).
+- **Soft Skills**: +12 años en liderazgo de equipos y trato con clientes. Autonomía, comunicación eficaz y resolución de crisis bajo presión.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Actividad en GitHub
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DjSurgeon&theme=transparent&hide_border=true&title_color=2088FF&icon_color=2088FF&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="80%" />
@@ -44,28 +44,28 @@ Backend Developer & IT Technician focused on DevOps culture. I build efficient, 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos Destacados
 
 ### 🏆 [VM-Starter](https://github.com/DjSurgeon/vm-starter) — Enterprise IaC Framework
-Automated VM provisioning tool for reproducible environments.
+Herramienta de aprovisionamiento de VMs para entornos reproducibles.
 - **Stack**: Bash, VirtualBox, Cloud-Init, GitHub Actions.
-- **Highlights**: CI/CD pipelines, Bats-core integration testing, dynamic binary mocking, strict fail-fast architecture.
+- **Destaca**: Pipelines CI/CD, tests de integración con Bats-core, mocking dinámico de binarios.
 
-### [Weather API](https://github.com/DjSurgeon/weather-api) — Production-ready Service
-REST API with Redis caching and external integrations.
+### [Weather API](https://github.com/DjSurgeon/weather-api) — Backend Service
+API REST con caché en Redis e integraciones externas.
 - **Stack**: Node.js, Express, Redis, PostgreSQL.
-- **Highlights**: Smart caching (90% reduction in external calls), rate limiting.
+- **Destaca**: Caché inteligente (reducción 90% de llamadas), rate limiting.
 
-### [Minishell](https://github.com/DjSurgeon/minishell) — POSIX Shell in C
-Bash-like shell built from scratch.
-- **Architecture**: Dispatcher pattern, AST parsing, modular handlers.
-- **Highlights**: Zero memory leaks, POSIX compliant, process management, 2,400+ tests.
+### [Minishell](https://github.com/DjSurgeon/minishell) — POSIX Shell en C
+Intérprete de comandos tipo Bash creado desde cero.
+- **Arquitectura**: Patrón Dispatcher, parsing AST, manejadores modulares.
+- **Destaca**: Cero memory leaks, estándar POSIX, gestión de procesos, +2.400 tests.
 
-### [Push Swap](https://github.com/DjSurgeon/push_swap) — Sorting Algorithm Optimizer
-Algorithm optimization with strict execution constraints.
-- **Highlights**: K-sort O(n√n), 5,201 operations for 500 numbers. Complexity analysis and memory constraints.
+### [Push Swap](https://github.com/DjSurgeon/push_swap) — Optimizador de Algoritmos
+Algoritmo de ordenación con restricciones estrictas.
+- **Destaca**: K-sort O(n√n), 5.201 operaciones para 500 números. Análisis de complejidad y límites de memoria.
 
 
 
 <br/>
-<p align="center"><i>Open to work in Madrid (Hybrid/Remote)</i></p>
+<p align="center"><i>Buscando oportunidades en Madrid (Híbrido/Remoto)</i></p>
